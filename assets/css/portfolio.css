@@ -154,7 +154,7 @@ a:hover {
 
 @media (max-width: 1000px) {
   body {
-    margin: 0px 50px;
+    margin: 0px 20px;
   }
   /* Heading */
   .heading {
