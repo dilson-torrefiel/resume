@@ -17,17 +17,7 @@ ul {
 }
 
 /* Heading */
-.heading {
-  display: flex;
-  flex-direction: row; /* Side by side on desktop */
-  padding: 20px;
-  border-radius: 5px;
-}
-.heading_desc {
-  margin-left: 30px;
-}
 .heading_name {
-  margin-top: 70px;
   margin-bottom: 4px;
 }
 .heading_title {
@@ -149,10 +139,7 @@ ul {
     text-align: center; /* Center the image on mobile */
     margin-top: 20px; /* Add some space above the image on mobile */
   }
-  .heading_name {
-    margin: 0 auto; /* Center the name on mobile */
-    margin-bottom: 4px;
-  }
+
   .heading_info,
   .heading_title,
   .heading_name {
