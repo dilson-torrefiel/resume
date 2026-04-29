@@ -107,12 +107,12 @@ ul {
 /* Footer */
 @media (max-width: 500px) {
   body {
-    margin: 0px 20px;
+    margin: 0px 5px;
   }
 }
 @media (min-width: 501px) and (max-width: 800px) {
   body {
-    margin: 0px 40px;
+    margin: 0px 10px;
   }
 }
 @media (min-width: 801px) and (max-width: 1000px) {
